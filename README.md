@@ -18,7 +18,7 @@ A personal project to showcase elixir skills
         * city, state
         * lat, lon
     * Search text
-        * fuzy
+        * fuzzy
         * vector search
 1. Develop ui
 
@@ -27,14 +27,22 @@ A personal project to showcase elixir skills
 _[Back to Top](#campgrounds)_
 
 ### Install elixir
+* Recommended to follow the instructions here:\
+http://elixir-ko.github.io/install.html
 
 _[Back to Top](#campgrounds)_
 
-### How to specify dependencies
+### Install dependencies
+
+Dependencies are specified in the *deps/0* function in the *mix.exs* file located
+> *add location*
 
 _[Back to Top](#campgrounds)_
 
 ### How to install postgres
+
+Install via guide located at:\
+https://www.postgresql.org/download/
 
 _[Back to Top](#campgrounds)_
 
@@ -54,6 +62,6 @@ _[Back to Top](#campgrounds)_
         * ecto
         * ecto_sql
 
-* Pheonix
+* Phoenix framework
 
 _[Back to Top](#campgrounds)_
